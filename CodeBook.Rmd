@@ -1,0 +1,16 @@
+# The following codebook gives the data description.
+
+The final dataset contains 180 observations on 68 variables.
+The data is as follows:
+- subject : The ID of the test subject
+- activity : The type of activity performed when the corresponding measurements were taken
+
+There are 6 types of activities as listed below :
+- WALKING
+- WALKING_UPSTAIRS
+- WALKING_DOWNSTAIRS
+- SITTING
+- STANDING
+- LAYING
+
+Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
